@@ -1,0 +1,9 @@
+{
+  "boardSize": 8,
+  "turnLength": 5000,
+  "numPlayers": 2,
+  "numMatches": 2,
+  "threads": 4,
+  "player1Path": "players/my_player",
+  "player2Path": "players/random_player"
+}
